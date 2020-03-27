@@ -22,11 +22,11 @@ public class Main {
         
         //union of two sets
         set1.addAll(set2);
-        System.out.println("union of the sets is: "+set1);
+        System.out.println("Union of the sets is: "+set1);
 
         //intersection of the sets
         set1.retainAll(set2);
-        System.out.println("intersection is: "+set1);
+        System.out.println("Intersection of the sets is: "+set1);
 
 
 
