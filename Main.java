@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
-        //create set 1
+        //create set1 with elements of Integer type
         Set<Integer> set1 = new HashSet<>();
         set1.add(1);
         set1.add(3);
