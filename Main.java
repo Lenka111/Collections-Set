@@ -17,7 +17,9 @@ public class Main {
         set2.add(3);
         set2.add(1);
         
+        //display the elements 
         System.out.println("set2 =" + set2);
+        
         //union of two sets
         set1.addAll(set2);
         System.out.println("union of the sets is: "+set1);
